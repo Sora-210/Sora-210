@@ -60,3 +60,20 @@
   関連リポジトリ:<br>
   <a href="https://github.com/Sora-210/GeekCampHackathon2021-vol12">GeekCampHackathon2021-vol12</a><br>
 </p>
+
+<h3>
+ ・favEat [Yahoo! Japan / Yahoo! JAPAN Digital Hack Day 2022]
+</h3>
+<p>
+  詳細:<br>
+  LINE BlockChainを活用し, 飲食店のスポンサーになることができるプロダクトのプロトタイプ開発を行いました.<br>
+  2人でのチーム開発を行い, FrontEnd/バックエンド<BlockChain>を担当しました.
+</p>
+<p>
+  結果:<br>
+  (入賞) LINE BlockChain賞
+</p>
+<p>
+  関連リポジトリ:<br>
+  非公開
+</p>
